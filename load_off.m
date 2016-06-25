@@ -1,6 +1,5 @@
 function offobj = load_off(filename)
-% read the off file. The function can also give some initial manipulations
-% of the 3D data like rotation and stretch.
+% Read the off file.
 % offobj: a struct contains vertices and faces of 3D mesh models.
 offobj = struct();
 fid = fopen(filename, 'rb');

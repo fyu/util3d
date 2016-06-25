@@ -1,6 +1,4 @@
 function show_model( obj )
-%UNTITLED3 Summary of this function goes here
-%   Detailed explanation goes here
 
 color = [0.0078    0.5176    0.5098];
 lighting = 'flat';
